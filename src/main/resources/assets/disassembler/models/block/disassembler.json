@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "disassembler:block/disassembler",
+    "down": "disassembler:block/disassembler",
+    "up": "disassembler:block/disassembler",
+    "east": "disassembler:block/disassembler",
+    "west": "disassembler:block/disassembler",
+    "north": "disassembler:block/disassembler_front",
+    "south": "disassembler:block/disassembler"
+  }
+}

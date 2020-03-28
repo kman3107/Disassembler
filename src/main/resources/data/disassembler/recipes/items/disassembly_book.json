@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "Z",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:book"
+    },
+    "X": {
+      "item": "disassembler:dismite"
+    },
+    "Z": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "result": {
+    "item": "disassembler:disassembly_book"
+  }
+}

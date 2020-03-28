@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "D#D",
+    "###"
+  ],
+  "key": {
+    "B": {
+      "item": "disassembler:disassembly_book"
+    },
+    "#": {
+      "item": "minecraft:obsidian"
+    },
+    "D": {
+      "item": "disassembler:dismite"
+    }
+  },
+  "result": {
+    "item": "disassembler:disassembler"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north,powered=false": { "model": "disassembler:block/disassembler" },
+    "facing=south,powered=false": { "model": "disassembler:block/disassembler", "y": 180 },
+    "facing=west,powered=false": { "model": "disassembler:block/disassembler", "y": 270 },
+    "facing=east,powered=false": { "model": "disassembler:block/disassembler", "y": 90 },
+    "facing=up,powered=false": { "model": "disassembler:block/disassembler", "x": -90 },
+    "facing=down,powered=false": { "model": "disassembler:block/disassembler", "x": 90 },
+    "facing=north,powered=true": { "model": "disassembler:block/disassembler_powered" },
+    "facing=south,powered=true": { "model": "disassembler:block/disassembler_powered", "y": 180 },
+    "facing=west,powered=true": { "model": "disassembler:block/disassembler_powered", "y": 270 },
+    "facing=east,powered=true": { "model": "disassembler:block/disassembler_powered", "y": 90 },
+    "facing=up,powered=true": { "model": "disassembler:block/disassembler_powered", "x": -90 },
+    "facing=down,powered=true": { "model": "disassembler:block/disassembler_powered", "x": 90 }
+  }
+}
